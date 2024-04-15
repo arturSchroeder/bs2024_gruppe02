@@ -2,6 +2,6 @@
 # bs2024_gruppe02
 ----
 Gruppenmitglieder:
-> Ufuk Ofoglu
-> Yannick Sünder
-> Artur Schröder
+- Ufuk Ofoglu
+- Yannick Sünder
+- Artur Schröder
